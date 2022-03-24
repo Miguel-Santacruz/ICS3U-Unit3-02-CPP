@@ -24,4 +24,6 @@ int main() {
     if (number != rightNumber) {
         std::cout << "You guessed wrong!";
     }
+
+    std::cout << "\nDone." << std::endl;
 }
